@@ -63,5 +63,5 @@ El análisis abarca múltiples fuentes de evidencia digital: contactos, mensajes
 
 ## Documento
 
-📄 [Ver informe completo](./Informe_analisis_forense_extraccion_ios.pdf)
+📄📄 [Ver informe completo](./Informe%20analisis%20forense%20extraccion%20ios.pdf)
 
